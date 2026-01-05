@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "921521959291",
+    "firebase_url": "https://newsfest-5d7c1-default-rtdb.firebaseio.com",
+    "project_id": "newsfest-5d7c1",
+    "storage_bucket": "newsfest-5d7c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921521959291:android:c6a41f4aa470679e52cdde",
+        "android_client_info": {
+          "package_name": "com.example.c36b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfJJSKb5TH8HZ2cNikLbaDCVbtNoHRF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921521959291:android:eff88133b25252ee52cdde",
+        "android_client_info": {
+          "package_name": "com.example.c36bc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfJJSKb5TH8HZ2cNikLbaDCVbtNoHRF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

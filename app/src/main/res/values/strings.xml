@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">C36B</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_dashboard_actitivity">DashboardActitivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="title_activity_update_product">UpdateProductActivity</string>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <string name="title_activity_admin_navigation">AdminNavigationActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_news_screen">NewsScreen</string>
+    <string name="title_activity_create_news_screen">CreateNewsScreen</string>
+</resources>
